@@ -27,14 +27,14 @@ run: node index
 None
 
 ## Contributors
-no
+No
 
 ## Test
-run test
+Run Test
 
 ## Questions
-Contact me:
+Contact Me:
 
-Github:[DiLiubarets](https://github.com/DiLiubarets)
+Github:[NGUENANG7](https://github.com/NGUENANG7)
 
-Email:[di.liubarets@outlook.com](https://github.com/DiLiubarets)
+Email:[njethur@yahoo.com](https://github.com/NGUENANG7)
