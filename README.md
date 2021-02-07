@@ -42,7 +42,7 @@ clone repo from GitHub: https://github.com/NGUENANG7/README-generator
 This application is used for README-Generator that can quickly create a professional README for a new project.
 
 ## License
-None
+This project is license under the MIT license.
 
 ## Contributors
 Gregory Nguenang
