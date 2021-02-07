@@ -1,7 +1,6 @@
-function generateMarkdown(data) {
-  return `
+
   
-  # ${data.title}
+  # a
 
 
   ## Table of Contents
@@ -14,31 +13,27 @@ function generateMarkdown(data) {
   * [Questions](#questions)
   
   ## Description
-  ${data.Description}
+  a
 
   ## Installation 
-  ${data.Installation}
+  a
 
   ## Usage 
-  ${data.Usage}
+  a
 
   ## License
-  ${data.License}
+  Apache,MIT,ISC,GNU GPLv3
 
   ## Contributors
-  ${data.Contributors}
+  undefined
 
   ## Test
-  ${data.Test}
+  a
 
   ## Questions
   Contact me:
 
-  Github:[${data.Username}](https://github.com/)
+  Github:[undefined](https://github.com/)
 
-  Email:[${data.Email}](https://github.com/)
+  Email:[njethur@yahoo.com](https://github.com/)
   
-`;
-}
-
-module.exports = generateMarkdown;
