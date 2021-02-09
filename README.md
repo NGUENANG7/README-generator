@@ -24,7 +24,6 @@ WHEN you click on the links in the Table of Contents, then you are taken to the 
 
 ### App working example
 
-![Git](README Generator Demonstration Video.gif)   
 [Video Link](https://drive.google.com/file/d/1DOMO_dTBfwYLq6KFlEgt9Amve1aBF3FV/view)
 
 ## Table of Contents
