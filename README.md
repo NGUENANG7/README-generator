@@ -13,14 +13,6 @@ Your project title is displayed as the title of the README.
 When you enter a description, installation instructions, usage information, contribution guidelines, and test instructions, then the 
 information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests.
 
-When you choose a license for your application from a list of options, then a badge for that license is added hear the top of the README
-and a notice is added to the section of the README entitled License that explains which license the application is covered under.
-
-when you enter your GitHub username, it will be added to the section of the README entitled Questions, with a link to your GitHub profile.
-
-When you enter your email address then it is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions.
-
-WHEN you click on the links in the Table of Contents, then you are taken to the corresponding section of the README
 
 ### App working example
 
