@@ -1,9 +1,10 @@
 
   
-  # a
+  # README-generator
 
+  [![GitHub](https://img.shields.io/github/license/NGUENANG7/README-Generator?logo=MIT&style=plastic)](https://github.com/BB/undefined)
 
-  ## Table of Contents
+  #no Table of Contents
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
@@ -12,28 +13,32 @@
   * [Test](#test)
   * [Questions](#questions)
   
-  ## Description
-  a
+  # Description
 
-  ## Installation 
-  a
+  This application is used for README-Generator that can quickly create a professional README for a new project.
 
-  ## Usage 
-  a
+  # Installation 
 
-  ## License
-  Apache,MIT,ISC,GNU GPLv3
+  Dependencies must be installed to run the application properly: NONE
 
-  ## Contributors
-  undefined
+  # Usage 
 
-  ## Test
-  a
+  ​This application is used for NONE
 
-  ## Questions
-  Contact me:
+  # License
 
-  Github:[undefined](https://github.com/)
+  This project is license under the MIT
 
-  Email:[njethur@yahoo.com](https://github.com/)
+  # Contributing
+
+  Contributorsundefined
+
+  # Test
+  To run tests, you need to run the following command: NONE
+
+  # Questions
+  
+  If you have any questions or suggestion, I am opened to any feedback.
+
+  Or contact NGUENANG7 using this Email: njethur@yahoo.com.
   

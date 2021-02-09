@@ -3,8 +3,9 @@ function generateMarkdown(data) {
   
   # ${data.title}
 
+  [![GitHub](https://img.shields.io/github/license/NGUENANG7/README-Generator?logo=MIT&style=plastic)](https://github.com/BB/undefined)
 
-  ## Table of Contents
+  #no Table of Contents
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
@@ -13,30 +14,34 @@ function generateMarkdown(data) {
   * [Test](#test)
   * [Questions](#questions)
   
-  ## Description
+  # Description
+
   ${data.Description}
 
-  ## Installation 
-  ${data.Installation}
+  # Installation 
 
-  ## Usage 
-  ${data.Usage}
+  Dependencies must be installed to run the application properly: ${data.Installation}
 
-  ## License
-  ${data.License}
+  # Usage 
 
-  ## Contributors
-  ${data.Contributors}
+  ​This application is used for ${data.Usage}
 
-  ## Test
-  ${data.Test}
+  # License
 
-  ## Questions
-  Contact me:
+  This project is license under the ${data.License}
 
-  Github:[${data.Username}](https://github.com/)
+  # Contributing
 
-  Email:[${data.Email}](https://github.com/)
+  Contributors${data.Contributors}
+
+  # Test
+  To run tests, you need to run the following command: ${data.Test}
+
+  # Questions
+  
+  If you have any questions or suggestion, I am opened to any feedback.
+
+  Or contact ${data.UserName} using this Email: ${data.Email}.
   
 `;
 }
